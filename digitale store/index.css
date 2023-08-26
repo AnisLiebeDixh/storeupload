@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Rubik', sans-serif;
+}
+.main{
+width:40% ;
+box-shadow: 1px 1px 10px silver;
+padding-top: 5%;
+padding-bottom: 5%; 
+}
+
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+#uploadbotton{
+background-color: rgb(80, 209, 125);
+color: aliceblue;
+text-align: center;
+
+}
+#uploadbotton:hover{
+    background-color: rgb(58, 156, 92);
+
+}
